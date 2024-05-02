@@ -12,3 +12,9 @@ description = "これは説明です。"
 これはLEDPoleです。
 
 This is LED Pole.
+
+{{< figure src="/img/portfolio/LEDPole1.jpg" title="RCJ JapanOpen2024にて" class="centre" width="400">}}
+
+いやああ
+
+よい
