@@ -2,7 +2,7 @@
 +++ 
 showonlyimage = true 
 draft = false 
-image = "img/portfolio/pinponn.JPG" 
+image = "img/portfolio/pinponn.jpg" 
 date = "2024-05-02" 
 title = "ピンポン玉ロボット"
 weight = 70
