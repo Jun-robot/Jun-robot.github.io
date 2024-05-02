@@ -9,6 +9,6 @@ weight = 65
 description = "2022年に全部1人で作ってみたサッカーロボット"
 +++
 
-これはLEDPoleです。
+これはBASEです。
 
 
