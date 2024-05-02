@@ -1,1 +1,8 @@
 /* your styles go here */
+
+
+/* 画像のキャプションを中央に表示する */
+figcaption{ 
+	text-align: center;
+}
+
