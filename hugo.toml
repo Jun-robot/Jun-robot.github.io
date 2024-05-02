@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "It is myportfolio"
   copyright = "&copy;2024 Jumpei Saito"
   sidebarAbout = [
-    "モノづくりが好きな大学生。"
+    "モノづくりが大好きな大学生。"
 	]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
