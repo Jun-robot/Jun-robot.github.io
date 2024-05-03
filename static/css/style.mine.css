@@ -416,9 +416,13 @@ SIDEBAR + RIGHT COLUMN
 .content-column-content ul li:before {
   font-family: 'FontAwesome';
   content: '\f105';
-  margin: 0 5px 0 -15px;
+  margin: 0 7px 0 -15px;
   color: #379392;
 }
+.content-column-content ul{ /*　ずらす */
+	padding-left: 25px;
+}
+
 .small-navbar {
   margin-bottom: 20px;
 }

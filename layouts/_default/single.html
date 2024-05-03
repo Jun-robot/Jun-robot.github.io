@@ -2,7 +2,7 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
 	{{ partial "mobile_nav_toggle.html" . }}
 	<div class="row">
-		<div class="col-lg-8">
+		<div class="col-lg-10"> <!-- 8から10にした -->
 			<div class="content-column-content">
 				<img 
 					src={{if .Params.title_image}}
@@ -13,7 +13,6 @@
 					alt="" 
 					class="img-responsive" 
 				>
-
 				<h1>{{ .Title }}</h1>
 				{{ .Content }}
 				{{ template "_internal/disqus.html" . }}
