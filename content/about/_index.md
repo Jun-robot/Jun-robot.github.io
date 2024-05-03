@@ -33,3 +33,12 @@ draft = false
 - サイエンスキャッスル2023口頭発表 優秀賞
 - 情報処理学会 第86回全国大会「情報科学の達人ー新たなる挑戦」　最優秀ポスター発表賞
 - RoboCupJunior2024 JapanOpen OnStage世界リーグ 優勝&プレゼンテーション賞
+
+　
+#### Twitterで情報公開中
+
+{{< twitter user="jun_robot" id="1785140974349668489" >}}
+
+　
+　
+　

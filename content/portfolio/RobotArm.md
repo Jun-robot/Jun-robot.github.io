@@ -10,3 +10,5 @@ description = "2023-2024年に動き・光を使った表現を模索するた�
 +++
 
 これはRobotArmです。
+
+{{< youtube sfEVmlThWUo >}}
