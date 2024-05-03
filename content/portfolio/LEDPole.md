@@ -11,10 +11,9 @@ description = "2023-2024年に光を使って空間全体を使って表現す�
 
 これはLEDPoleです。
 
-This is LED Pole.
+非常によい。fTomoいいね。
 
-{{< figure src="/img/portfolio/LEDPole1.jpg" title="RCJ JapanOpen2024にて" class="centre" width="400">}}
+{{< figure src="/img/portfolio/LEDPole1.jpg" title="RCJ JapanOpen2024にて (fTomo撮影)" class="centre" width="400">}}
 
-いやああ
 
-よい
+{{< youtube sfEVmlThWUo >}}
