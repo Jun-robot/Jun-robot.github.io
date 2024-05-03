@@ -2,7 +2,7 @@
 +++ 
 showonlyimage = true 
 draft = false 
-image = "/img/portfolio/Cranes.jpg" 
+image = "/img/portfolio/cranes.jpg" 
 date = "2024-05-02" 
 title = "Cranesのサッカーロボット"
 weight = 60
