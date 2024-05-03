@@ -9,7 +9,6 @@ weight = 80
 description = "2018-2019年にRCJオンステージに向けて開発。"
 +++
 
-これはLEDPoleです。
+2018-2019年にRCJオンステージに向けてForestで開発。
 
-This is LED Pole.
-
+LEGOを使っていてとても懐かしい。全てを担当。

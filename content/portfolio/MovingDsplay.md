@@ -9,8 +9,14 @@ weight = 6
 description = "2023-2024年にオブジェクトを空間に固定する体験を作るために開発"
 +++
 
-これはRobotArmです。いや、MovingDisplayです。
+2023-2024年にオブジェクトを空間に固定する体験を作るために開発。
 
-これもカッコいいでしょ。
+情報処理学会、技育展、サイエンスキャッスル、RCJオンステージで発表した。
 
+初期型のプロトタイピング等を担当。
+
+{{< youtube EhFA5ScxegE >}}
+　
 {{< youtube sfEVmlThWUo >}}
+　
+{{< twitter user="jun_robot" id="1772539091680395759" >}}
