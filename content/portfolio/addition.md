@@ -9,7 +9,5 @@ weight = 70
 description = "2020年夏休みに暇だったので開発"
 +++
 
-これはLEDPoleです。
-
-This is LED Pole.
+4bit加算器を作りました。
 
