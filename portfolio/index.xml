@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Jumpei Saito</title><link>https://jun-robot.github.io/portfolio/</link><description>Recent content in Portfolios on Jumpei Saito</description><generator>Hugo</generator><language>jp</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jun-robot.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Robot Arm</title><link>https://jun-robot.github.io/portfolio/robotarm/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/robotarm/</guid><description>これはRobotArmです。
-光るよ。カッコいいでしょ。</description></item><item><title>LED Pole</title><link>https://jun-robot.github.io/portfolio/ledpole/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ledpole/</guid><description>これはLEDPoleです。
-非常によい。fTomoいいね。
-RCJ JapanOpen2024にて (fTomo撮影)</description></item><item><title>Moving Display</title><link>https://jun-robot.github.io/portfolio/movingdsplay/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/movingdsplay/</guid><description>これはRobotArmです。いや、MovingDisplayです。
-これもカッコいいでしょ。</description></item><item><title>サッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item><item><title>ライントレーサー</title><link>https://jun-robot.github.io/portfolio/linefollow/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/linefollow/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item><item><title>All_outlookのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/all_outlook/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/all_outlook/</guid><description>All_outlookで開発していたRCJサッカーライトウェイトに出場するためのロボット。メンバーは中学時代の科学部の仲間で構成されていた。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Jumpei Saito</title><link>https://jun-robot.github.io/portfolio/</link><description>Recent content in Portfolios on Jumpei Saito</description><generator>Hugo</generator><language>jp</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jun-robot.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Robot Arm</title><link>https://jun-robot.github.io/portfolio/robotarm/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/robotarm/</guid><description>2023-2024年に動き・光を使った表現を模索するために開発。
+RCJオンステージで発表した。
+無線等の制御を担当。</description></item><item><title>LED Pole</title><link>https://jun-robot.github.io/portfolio/ledpole/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ledpole/</guid><description>2023-2024年に光を使って空間全体を使って表現するために開発。
+文化祭やRCJオンステージで発表した。
+設計、制御を担当。
+RCJ JapanOpen2024にて (fTomo撮影)</description></item><item><title>Moving Display</title><link>https://jun-robot.github.io/portfolio/movingdsplay/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/movingdsplay/</guid><description>2023-2024年にオブジェクトを空間に固定する体験を作るために開発。
+情報処理学会、技育展、サイエンスキャッスル、RCJオンステージで発表した。
+初期型のプロトタイピング等を担当。
+情報科学の達人 最優秀ポスター発表賞をいただけました！！
+約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 https://t.co/EkoTjDOwO3
+&amp;mdash; Jun (@jun_robot) March 26, 2024</description></item><item><title>Cranesのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>2022-2023にCranesで開発していたRCJサッカーオープンに出場するためのロボット。メンバーは過去の大会で知り合った、沖縄、広島の人だった。
+電装と制御を担当した。あと組み立て。
+これが最後にマトモに電装をやったときかもしれない。2024春現在。
+小さく詰め込んだ回路
+本当に場所がなかった
+最終的に非搭載になったドリブラー
+もう大会終わったし公開！
+カメラは飾りにしかならなかった、、 https://t.co/Hb7Y3p9HPG pic.twitter.com/jpBCm6dABR
+&amp;mdash; All_outlook (@All_outlook) April 25, 2022</description></item><item><title>ライントレーサー</title><link>https://jun-robot.github.io/portfolio/linefollow/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/linefollow/</guid><description>2022年-2023年にLEGOの次を担うような教育キットを作れないかと考え開発。
+自走して学んでいけるエンジニアを育てることが目的。
+FRCチームSAZANKA Robotics、慶應志木高校電子工学研究会の新人教育にて使用。
+教育の難しさを学んだ。</description></item><item><title>All_outlookのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/all_outlook/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/all_outlook/</guid><description>2021-2022にAll_outlookで開発していたRCJサッカーライトウェイトに出場するためのロボット。メンバーは中学時代の科学部の仲間で構成されていた。
 2021年は無限にサッカーロボット作り続けていた。
 全国大会やアジアパシフィック大会、各種交流大会に沢山参加した。友達がいっぱいできた。
+主に制御を担当。
 初めて作ったバージョン0 (2021年夏)
 深夜の公民館の駐輪場で撮影したバージョン1 (2021年秋)
 コンデンサ増し増しにしたバージョン2 (2021年冬)
-開発費不足で作られることの無かったバージョン3 (2022年春)
-全国大会でのバージョン4 (2022年春)</description></item><item><title>BASE</title><link>https://jun-robot.github.io/portfolio/base/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/base/</guid><description>これはBASEです。</description></item><item><title>ピンポン玉ロボット</title><link>https://jun-robot.github.io/portfolio/pinponn/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/pinponn/</guid><description>これはLEDPoleです。
-This is LED Pole.
-ああ</description></item><item><title>リレーで作る4bit加算機</title><link>https://jun-robot.github.io/portfolio/addition/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/addition/</guid><description>4bit加算器を作りました。</description></item><item><title>エイト</title><link>https://jun-robot.github.io/portfolio/eight/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/eight/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item><item><title>まと</title><link>https://jun-robot.github.io/portfolio/mato/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/mato/</guid><description>これは的（まと）です。</description></item><item><title>判定機</title><link>https://jun-robot.github.io/portfolio/hanteiki/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/hanteiki/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item><item><title>剣（けん）</title><link>https://jun-robot.github.io/portfolio/ken/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ken/</guid><description>これはけんです。
-This is LED Pole.</description></item><item><title>瓦ロボット</title><link>https://jun-robot.github.io/portfolio/kawarawari/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/kawarawari/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item><item><title>魔王</title><link>https://jun-robot.github.io/portfolio/maou/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/maou/</guid><description>これはLEDPoleです。
-This is LED Pole.</description></item></channel></rss>
+資金難で開発中断した僕が設計したバージョン3 (2022年春)
+全国大会でのバージョン4 (2022年春)
+もう大会終わったし公開！
+カメラは飾りにしかならなかった、、 https://t.co/Hb7Y3p9HPG pic.twitter.com/jpBCm6dABR
+&amp;mdash; All_outlook (@All_outlook) April 25, 2022</description></item><item><title>BASE</title><link>https://jun-robot.github.io/portfolio/base/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/base/</guid><description>2022年夏に1人で作ってみたサッカーロボット。</description></item><item><title>ピンポン玉ロボット</title><link>https://jun-robot.github.io/portfolio/pinponn/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/pinponn/</guid><description>2021年冬にscramble内ロボコンに向けて1人で開発。
+確か”ラズピコ号”っていう名前をつけた気がする。</description></item><item><title>リレーで作る4bit加算機</title><link>https://jun-robot.github.io/portfolio/addition/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/addition/</guid><description>2020夏休みにコンピューターの仕組みを学ぶためにfTomoと開発。
+受験のためRCJは出れないなと思いつつ夏休み中だけで実装した。
+リレーを使った加算機と、NANDゲートを使った加算機と、計算速度を比較するシステムを構築した。</description></item><item><title>魔王</title><link>https://jun-robot.github.io/portfolio/maou/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/maou/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
+初めてメカから回路、ソフトまで1人で作ったロボット。
+思い出深いロボットで今もアイコンとしてよく使っている。</description></item><item><title>エイト</title><link>https://jun-robot.github.io/portfolio/eight/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/eight/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
+先輩たちが人型ロボットを作っていて憧れて開発した。
+メカと回路を担当。</description></item><item><title>まと</title><link>https://jun-robot.github.io/portfolio/mato/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/mato/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
+絶対に動くパフォーマンス装置を作りたかった。
+メカと回路を担当。</description></item><item><title>判定機</title><link>https://jun-robot.github.io/portfolio/hanteiki/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/hanteiki/</guid><description>2018-2019年にRCJオンステージに向けてForestで開発。
+先輩に教わりながら、初めてハンダづけをして、ラズパイを使った。</description></item><item><title>剣（けん）</title><link>https://jun-robot.github.io/portfolio/ken/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ken/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
+振った角度で光が変化して、めちゃめちゃカッコよかった。</description></item><item><title>瓦ロボット</title><link>https://jun-robot.github.io/portfolio/kawarawari/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/kawarawari/</guid><description>2018-2019年にRCJオンステージに向けてForestで開発。
+LEGOを使っていてとても懐かしい。全てを担当。</description></item></channel></rss>
