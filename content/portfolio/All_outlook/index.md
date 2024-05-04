@@ -1,7 +1,7 @@
 
 +++ 
 showonlyimage = true 
-draft = false 
+draft = false
 image = "/img/portfolio/All_outlook.jpg"
 date = "2024-05-02" 
 title = "All_outlookのサッカーロボット"
