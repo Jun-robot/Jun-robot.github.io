@@ -2,7 +2,7 @@
 title = 'About'
 date = 2024-05-02T11:43:27+09:00
 draft = false
-image = "/about/about.jpg"
+image = "about/about.jpg"
 +++
 
 {{< figure src="/about.jpg" title="MovingDisplayとLEDPole (2024年3月撮影)" class="centre" width="600">}}
