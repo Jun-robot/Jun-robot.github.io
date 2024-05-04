@@ -1,7 +1,7 @@
 baseurl = "https://jun-robot.github.io/"
 title = "Jumpei Saito"
 theme = "hugo-creative-portfolio-theme"
-languageCode = "jp"
+languageCode = "ja"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
