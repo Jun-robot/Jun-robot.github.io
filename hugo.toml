@@ -69,3 +69,8 @@ googleAnalytics = "G-RSVPR2TT9K"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"
   facebook      = "https://www.facebook.com/profile.php?id=100027609278755"
+
+[markup] #Markdown内のHTMLタグを許可する
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
