@@ -2,7 +2,7 @@
 +++ 
 showonlyimage = true 
 draft = false 
-image = "/img/portfolio/printed_motor.jpg" 
+image = "img/portfolio/printed_motor.jpg" 
 date = "2024-05-02" 
 title = "3Dプリンタで作る自作モーター"
 weight = 60
