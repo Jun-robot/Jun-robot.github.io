@@ -10,7 +10,9 @@ RCJ JapanOpen2024にて (fTomo撮影)</description></item><item><title>Moving Di
 約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 https://t.co/EkoTjDOwO3
 &amp;mdash; Jun (@jun_robot) March 26, 2024</description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。
 サイエンスキャッスルや未踏ジュニア、MakerFaireTokyoで発表した。
-一応、回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。
+回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。
+CAD等を全てGitHubで公開している。
+GitHub - Jun-robot/3DPrintedMotor Contribute to Jun-robot/3DPrintedMotor development by creating an account on GitHub.
 手巻きのコイル
 永久磁石
 うらがわ
