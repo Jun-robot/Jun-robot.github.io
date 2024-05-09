@@ -15,11 +15,11 @@ description = "2022-2023年にモーターを自作してみたくなって開�
 
 一応、回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。
 
-{{< figure src="/0.jpg" title="手巻きのコイル" class="centre" width="600">}}
+{{< figure src="/0.jpg" title="手巻きのコイル" class="center" width="600">}}
 
-{{< figure src="/1.jpg" title="永久磁石" class="centre" width="600">}}
+{{< figure src="/1.jpg" title="永久磁石" class="center" width="600">}}
 
-{{< figure src="/2.jpg" title="うらがわ" class="centre" width="600">}}
+{{< figure src="/2.jpg" title="うらがわ" class="center" width="600">}}
 
 {{< twitter user="jun_robot" id="1598691207378763776" >}}
 　
