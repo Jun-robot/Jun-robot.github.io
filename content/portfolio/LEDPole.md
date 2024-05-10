@@ -13,7 +13,7 @@ description = "2023-2024年に光を使って空間全体を使って表現す�
 
 文化祭やRCJオンステージで発表した。
 
-設計、制御を担当。
+設計、制御を担当。　
 
 {{< figure src="/img/portfolio/LEDPole1.jpg" title="RCJ JapanOpen2024にて (fTomo撮影)" class="centre" width="400">}}
 
