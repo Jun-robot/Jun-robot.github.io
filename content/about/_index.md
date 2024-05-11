@@ -5,9 +5,10 @@ draft = false
 image = "about/about.jpg"
 +++
 
-{{< figure src="/about.jpg" title="RCJ JapanOpenにて（2024年3月）" class="centre" width="600">}}
+{{< figure src="/about.jpg" title="" class="centre" width="600">}}
+　
 
-齋藤 淳平 | Jumpei Saito
+#### 齋藤 淳平 | Jumpei Saito
 
 2005年生まれ。小さい頃からモノづくりが大好きな大学生。
 
