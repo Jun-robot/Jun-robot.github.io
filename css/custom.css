@@ -17,3 +17,9 @@ figcaption{
 	/* color: #999999; */
 	color: #777777;
 }
+
+.qiita-icon {
+	width: 15px;
+	height: 15px;
+	margin-top: 12px;
+}
