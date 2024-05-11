@@ -7,12 +7,13 @@ image = "about/about.jpg"
 
 {{< figure src="/about.jpg" title="RCJ JapanOpenにて（2024年3月）" class="centre" width="600">}}
 
+齋藤 淳平 | Jumpei Saito
 
-小さい頃からモノづくりが大好きな大学生です。
+2005年生まれ。小さい頃からモノづくりが大好きな大学生。
 
-ハードウェアを使って新たな体験を創造することに興味があります。
+ハードウェアを使って新たな体験を創造することに興味がある。
 
-主なテーマは、計算機と人間が対等に共存する未来のプロトタイピングです。
+主なテーマは、計算機と人間が対等に共存する未来のプロトタイピング。
 
 　
 
@@ -36,7 +37,7 @@ image = "about/about.jpg"
 - RoboCupJunior2024 JapanOpen OnStage世界リーグ 優勝&プレゼンテーション賞
 
 　
-#### Twitterで情報公開中
+#### Twitterでの情報発信
 
 {{< twitter user="jun_robot" id="1785140974349668489" >}}
 
