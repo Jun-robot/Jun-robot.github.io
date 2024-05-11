@@ -28,14 +28,14 @@ image = "about/about.jpg"
 
 　
 #### 主な実績
-- RoboCupJunior2019 JapanOpen OnStage日本リーグ 優勝
-- 全日本児童発明工夫展2020 入選
-- RoboCupJunior2021 AsiaPacific SoccerLightWeight 11位/18チーム
-- サイエンスキャッスル2022口頭発表 優秀賞
-- RoboCupJunior2023 JapanOpen SuccerOpen プレゼンテーション賞
-- サイエンスキャッスル2023口頭発表 優秀賞
-- 情報処理学会 第86回全国大会「情報科学の達人ー新たなる挑戦」　最優秀ポスター発表賞
 - RoboCupJunior2024 JapanOpen OnStage世界リーグ 優勝&プレゼンテーション賞
+- 情報処理学会 第86回全国大会「情報科学の達人ー新たなる挑戦」　最優秀ポスター発表賞
+- サイエンスキャッスル2023口頭発表 優秀賞
+- RoboCupJunior2023 JapanOpen SuccerOpen プレゼンテーション賞
+- サイエンスキャッスル2022口頭発表 優秀賞
+- RoboCupJunior2021 AsiaPacific SoccerLightWeight 11位/18チーム
+- 全日本児童発明工夫展2020 入選
+- RoboCupJunior2019 JapanOpen OnStage日本リーグ 優勝
 
 　
 #### Twitterでの情報発信
