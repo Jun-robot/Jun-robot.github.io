@@ -2,7 +2,10 @@
 title = 'Future'
 date = 2024-05-02T15:23:21+09:00
 draft = false
+image = "future/future.jpg"
 +++
+
+{{< figure src="/future.jpg" title="RCJ JapanOpenにて（2024年3月）" class="centre" width="600">}}
 
 こんにちは。やりたいこと、将来について書きます。未来設計。
 
