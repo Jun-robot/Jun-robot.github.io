@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jumpei Saito</title><link>https://jun-robot.github.io/</link><description>Recent content on Jumpei Saito</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jun-robot.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Robot Arm</title><link>https://jun-robot.github.io/portfolio/robotarm/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/robotarm/</guid><description>2023-2024年に動き・光を使った表現を模索するために開発。
+人間でいうダンスのような動きを模索している。そして、計算機の世界を表現する手法の一つにしたい。
 RCJオンステージで発表した。
 無線等の制御を担当。</description></item><item><title>LED Pole</title><link>https://jun-robot.github.io/portfolio/ledpole/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ledpole/</guid><description>2023-2024年に光を使って空間全体を使って表現するために開発。
 文化祭やRCJオンステージで発表した。
@@ -7,7 +8,7 @@ RCJオンステージで発表した。
 初期型のプロトタイピング等を担当。
 情報科学の達人 最優秀ポスター発表賞をいただけました！！
 約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 https://t.co/EkoTjDOwO3
-&amp;mdash; Jun (@jun_robot) March 26, 2024</description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。
+&amp;mdash; Jun @燈 (@jun_robot) March 26, 2024</description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。
 サイエンスキャッスルや未踏ジュニア、MakerFaireTokyoで発表した。
 回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。
 CAD等を全てGitHubで公開している。
@@ -16,10 +17,10 @@ GitHub - Jun-robot/3DPrintedMotor: 3Dプリンタでブラシレスモーター�
 永久磁石
 うらがわ
 自作モーター回りはするけどすぐ脱調するからMDも自作したいなぁ pic.twitter.com/QRlXRDR1kt
-&amp;mdash; Jun (@jun_robot) December 2, 2022 未踏ジュニア成果報告会 サイエンスキャッスル2022 この席にいっぱい人が座ってる中、一番前に立ってプレゼンしてきた！
+&amp;mdash; Jun @燈 (@jun_robot) December 2, 2022 未踏ジュニア成果報告会 サイエンスキャッスル2022 この席にいっぱい人が座ってる中、一番前に立ってプレゼンしてきた！
 めっちゃ楽しかった！！ pic.twitter.com/ZCm80C5vhW
-&amp;mdash; Jun (@jun_robot) December 3, 2022 MakerFaireTokyo2023（未踏ジュニアブース） #MFTokyo2023 展示してます！！ pic.twitter.com/XXB8wDBGij
-&amp;mdash; Jun (@jun_robot) October 14, 2023</description></item><item><title>Cranesのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>2022-2023にCranesで開発していたRCJサッカーオープンに出場するためのロボット。メンバーは過去の大会で知り合った、沖縄、広島の人だった。
+&amp;mdash; Jun @燈 (@jun_robot) December 3, 2022 MakerFaireTokyo2023（未踏ジュニアブース） #MFTokyo2023 展示してます！！ pic.twitter.com/XXB8wDBGij
+&amp;mdash; Jun @燈 (@jun_robot) October 14, 2023</description></item><item><title>Cranesのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>2022-2023にCranesで開発していたRCJサッカーオープンに出場するためのロボット。メンバーは過去の大会で知り合った、沖縄、広島の人だった。
 電装と制御を担当した。あと組み立て。
 これが最後にマトモに電装をやったときかもしれない。2024春現在。
 小さく詰め込んだ回路
