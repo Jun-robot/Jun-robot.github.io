@@ -12,9 +12,9 @@ image = "about/about.jpg"
 
 2005年生まれ。小さい頃からモノづくりが好き。
 
-ハードウェアを使って新たな体験を創造することに興味がある。
+ハードウェアを使って新たな体験を創ることに興味がある。
 
-主なテーマは、**計算機と人間が対等に共存する未来**のプロトタイピング。
+<!--主なテーマは、**計算機と人間が対等に共存する未来**のプロトタイピング。-->
 
 　
 
@@ -28,6 +28,8 @@ image = "about/about.jpg"
 
 　
 #### 主な実績
+- RoboCup Eindhoven2024 JuniorOnStageLeague **Individual Team 1st Place**
+    - Interview score, Technical video score, Technical poster scoreにて首位
 - RoboCupJunior2024 JapanOpen OnStage世界リーグ **優勝**&プレゼンテーション賞
 - 情報処理学会 第86回全国大会「情報科学の達人ー新たなる挑戦」　**最優秀ポスター発表賞**
 - サイエンスキャッスル2023口頭発表 優秀賞
