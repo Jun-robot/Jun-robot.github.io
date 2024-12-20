@@ -1,59 +1,153 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Jumpei Saito</title><link>https://jun-robot.github.io/portfolio/</link><description>Recent content in Portfolios on Jumpei Saito</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jun-robot.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Robot Arm</title><link>https://jun-robot.github.io/portfolio/robotarm/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/robotarm/</guid><description>2023-2024年に動き・光を使った表現を模索するために開発。
-人間でいうダンスのような動きを模索している。そして、計算機の世界を表現する手法の一つにしたい。
-RCJオンステージで発表した。
-無線等の制御を担当。</description></item><item><title>LED Pole</title><link>https://jun-robot.github.io/portfolio/ledpole/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ledpole/</guid><description>2023-2024年に光を使って空間全体を使って表現するために開発。
-文化祭やRCJオンステージで発表した。
-設計、制御を担当。　RCJ JapanOpen2024にて (fTomo撮影)</description></item><item><title>Moving Display</title><link>https://jun-robot.github.io/portfolio/movingdsplay/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/movingdsplay/</guid><description>2023-2024年にオブジェクトを空間に固定する体験を作るために開発。
-情報処理学会、技育展、サイエンスキャッスル、RCJオンステージで発表した。
-初期型のプロトタイピング等を担当。
-情報科学の達人 最優秀ポスター発表賞をいただけました！！
-約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 https://t.co/EkoTjDOwO3
-&amp;mdash; Jun @燈 (@jun_robot) March 26, 2024</description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。
-サイエンスキャッスルや未踏ジュニア、MakerFaireTokyoで発表した。
-回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。
-CAD等を全てGitHubで公開している。
-GitHub - Jun-robot/3DPrintedMotor: 3Dプリンタでブラシレスモーターを作ってみたリポジトリ。未踏ジュニアでやった 3Dプリンタでブラシレスモーターを作ってみたリポジトリ。未踏ジュニアでやった. Contribute to Jun-robot/3DPrintedMotor development by creating an account on GitHub.
-手巻きのコイル
-永久磁石
-うらがわ
-自作モーター回りはするけどすぐ脱調するからMDも自作したいなぁ pic.twitter.com/QRlXRDR1kt
-&amp;mdash; Jun @燈 (@jun_robot) December 2, 2022 未踏ジュニア成果報告会 サイエンスキャッスル2022 この席にいっぱい人が座ってる中、一番前に立ってプレゼンしてきた！
-めっちゃ楽しかった！！ pic.twitter.com/ZCm80C5vhW
-&amp;mdash; Jun @燈 (@jun_robot) December 3, 2022 MakerFaireTokyo2023（未踏ジュニアブース） #MFTokyo2023 展示してます！！ pic.twitter.com/XXB8wDBGij
-&amp;mdash; Jun @燈 (@jun_robot) October 14, 2023</description></item><item><title>Cranesのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>2022-2023にCranesで開発していたRCJサッカーオープンに出場するためのロボット。メンバーは過去の大会で知り合った、沖縄、広島の人だった。
-電装と制御を担当した。あと組み立て。
-これが最後にマトモに電装をやったときかもしれない。2024春現在。
-小さく詰め込んだ回路
-本当に場所がなかった
-最終的に非搭載になったドリブラー
-もう大会終わったし公開！
-カメラは飾りにしかならなかった、、 https://t.co/Hb7Y3p9HPG pic.twitter.com/jpBCm6dABR
-&amp;mdash; All_outlook (@All_outlook) April 25, 2022</description></item><item><title>ライントレーサー</title><link>https://jun-robot.github.io/portfolio/linefollow/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/linefollow/</guid><description>2022年-2023年にLEGOの次を担うような教育キットを作れないかと考え開発。
-自走して学んでいけるエンジニアを育てることが目的。
-FRCチームSAZANKA Robotics、慶應志木高校電子工学研究会の新人教育にて使用。
-教育の難しさを学んだ。</description></item><item><title>All_outlookのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/all_outlook/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/all_outlook/</guid><description>2021-2022にAll_outlookで開発していたRCJサッカーライトウェイトに出場するためのロボット。メンバーは中学時代の科学部の仲間で構成されていた。
-2021年は無限にサッカーロボット作り続けていた。
-全国大会やアジアパシフィック大会、各種交流大会に沢山参加した。友達がいっぱいできた。
-主に制御を担当。
-初めて作ったバージョン0 (2021年夏)
-深夜の公民館の駐輪場で撮影したバージョン1 (2021年秋)
-コンデンサ増し増しにしたバージョン2 (2021年冬)
-資金難で開発中断した僕が設計したバージョン3 (2022年春)
-全国大会でのバージョン4 (2022年春)
-もう大会終わったし公開！
-カメラは飾りにしかならなかった、、 https://t.co/Hb7Y3p9HPG pic.twitter.com/jpBCm6dABR
-&amp;mdash; All_outlook (@All_outlook) April 25, 2022</description></item><item><title>BASE</title><link>https://jun-robot.github.io/portfolio/base/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/base/</guid><description>2022年夏に1人で作ってみたサッカーロボット。</description></item><item><title>ピンポン玉ロボット</title><link>https://jun-robot.github.io/portfolio/pinponn/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/pinponn/</guid><description>2021年冬にscramble内ロボコンに向けて1人で開発。
-確か”ラズピコ号”っていう名前をつけた気がする。</description></item><item><title>リレーで作る4bit加算機</title><link>https://jun-robot.github.io/portfolio/addition/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/addition/</guid><description>2020夏休みにコンピューターの仕組みを学ぶためにfTomoと開発。
-受験のためRCJは出れないなと思いつつ夏休み中だけで実装した。
-リレーを使った加算機と、NANDゲートを使った加算機と、計算速度を比較するシステムを構築した。</description></item><item><title>魔王</title><link>https://jun-robot.github.io/portfolio/maou/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/maou/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
-初めてメカから回路、ソフトまで1人で作ったロボット。
-思い出深いロボットで今もアイコンとしてよく使っている。</description></item><item><title>エイト</title><link>https://jun-robot.github.io/portfolio/eight/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/eight/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
-先輩たちが人型ロボットを作っていて憧れて開発した。
-メカと回路を担当。</description></item><item><title>まと</title><link>https://jun-robot.github.io/portfolio/mato/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/mato/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
-絶対に動くパフォーマンス装置を作りたかった。
-メカと回路を担当。</description></item><item><title>判定機</title><link>https://jun-robot.github.io/portfolio/hanteiki/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/hanteiki/</guid><description>2018-2019年にRCJオンステージに向けてForestで開発。
-先輩に教わりながら、初めてハンダづけをして、ラズパイを使った。
-メカと回路とソフトを担当。</description></item><item><title>剣（けん）</title><link>https://jun-robot.github.io/portfolio/ken/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ken/</guid><description>2019-2020年にRCJオンステージに向けてForestで開発。
-振った角度で光が変化して、めちゃめちゃカッコよかった。
-メカと回路を担当。</description></item><item><title>瓦ロボット</title><link>https://jun-robot.github.io/portfolio/kawarawari/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/kawarawari/</guid><description>2018-2019年にRCJオンステージに向けてForestで開発。
-LEGOを使っていてとても懐かしい。全てを担当。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Jumpei Saito</title><link>https://jun-robot.github.io/portfolio/</link><description>Recent content in Portfolios on Jumpei Saito</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jun-robot.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Robot Arm</title><link>https://jun-robot.github.io/portfolio/robotarm/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/robotarm/</guid><description>&lt;p>2023-2024年に動き・光を使った表現を模索するために開発。&lt;/p>
+&lt;p>人間でいうダンスのような動きを模索している。そして、計算機の世界を表現する手法の一つにしたい。&lt;/p>
+&lt;p>RCJオンステージで発表した。&lt;/p>
+&lt;p>無線等の制御を担当。&lt;/p>
+&lt;p>
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/C84AX7_zm7k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　
+
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/gL2JvaOCE8g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　
+
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/sfEVmlThWUo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+&lt;/p></description></item><item><title>LED Pole</title><link>https://jun-robot.github.io/portfolio/ledpole/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ledpole/</guid><description>&lt;p>2023-2024年に光を使って空間全体を使って表現するために開発。&lt;/p>
+&lt;p>文化祭やRCJオンステージで発表した。&lt;/p>
+&lt;p>設計、制御を担当。　&lt;/p>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/img/portfolio/LEDPole1.jpg" width="400">&lt;figcaption>
+			&lt;p>RCJ JapanOpen2024にて (fTomo撮影)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;p>
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MHWqF70g9po?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　
+
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/sfEVmlThWUo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+&lt;/p></description></item><item><title>Moving Display</title><link>https://jun-robot.github.io/portfolio/movingdsplay/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/movingdsplay/</guid><description>&lt;p>2023-2024年にオブジェクトを空間に固定する体験を作るために開発。&lt;/p>
+&lt;p>情報処理学会、技育展、サイエンスキャッスル、RCJオンステージで発表した。&lt;/p>
+&lt;p>初期型のプロトタイピング等を担当。&lt;/p>
+&lt;p>
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EhFA5ScxegE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　
+
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/sfEVmlThWUo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">情報科学の達人 最優秀ポスター発表賞をいただけました！！&lt;br>約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 &lt;a href="https://t.co/EkoTjDOwO3">https://t.co/EkoTjDOwO3&lt;/a>&lt;/p>&amp;mdash; Jun @燈 (@jun_robot) &lt;a href="https://twitter.com/jun_robot/status/1772539091680395759?ref_src=twsrc%5Etfw">March 26, 2024&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+
+&lt;/p></description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>&lt;p>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。&lt;/p>
+&lt;p>サイエンスキャッスルや未踏ジュニア、MakerFaireTokyoで発表した。&lt;/p>
+&lt;p>回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。&lt;/p>
+&lt;p>CAD等を全てGitHubで公開している。&lt;/p>
+&lt;div style="margin-top: 10px;">
+ &lt;a href="https://github.com/Jun-robot/3DPrintedMotor/" style="padding: 12px;border: solid 1px #eee;display: flex;text-decoration: none;color: #000;" onMouseOver="this.style.opacity='0.9'">
+ &lt;div style="flex-shrink: 0;">
+ &lt;img src="https://jun-robot.github.io/3DPrintedMotor_17194191131187448097.png" alt="" width="250" height="250" style="object-fit: contain;" />
+ &lt;/div>
+ &lt;div style="margin-left: 10px;">
+ &lt;h2 style="margin: 0;padding-bottom: 13px;border: none;font-size: 16px;">GitHub - Jun-robot/3DPrintedMotor: 3Dプリンタでブラシレスモーターを作ってみたリポジトリ。未踏ジュニアでやった&lt;/h2>
+ &lt;p style="margin: 0;font-size: 13px;word-break: break-word;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 3;overflow: hidden;">3Dプリンタでブラシレスモーターを作ってみたリポジトリ。未踏ジュニアでやった. Contribute to Jun-robot/3DPrintedMotor development by creating an account on GitHub.&lt;/p>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+&lt;p>　
+&lt;figure class="center">&lt;img src="https://jun-robot.github.io/portfolio/printed_motor/0.jpg" width="600">&lt;figcaption>
+			&lt;p>手巻きのコイル&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>&lt;/p>
+&lt;figure class="center">&lt;img src="https://jun-robot.github.io/portfolio/printed_motor/1.jpg" width="600">&lt;figcaption>
+			&lt;p>永久磁石&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="center">&lt;img src="https://jun-robot.github.io/portfolio/printed_motor/2.jpg" width="600">&lt;figcaption>
+			&lt;p>うらがわ&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">自作モーター回りはするけどすぐ脱調するからMDも自作したいなぁ &lt;a href="https://t.co/QRlXRDR1kt">pic.twitter.com/QRlXRDR1kt&lt;/a>&lt;/p>&amp;mdash; Jun @燈 (@jun_robot) &lt;a href="https://twitter.com/jun_robot/status/1598691207378763776?ref_src=twsrc%5Etfw">December 2, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+
+
+&lt;p>　&lt;/p>
+&lt;h5 id="未踏ジュニア成果報告会">未踏ジュニア成果報告会&lt;/h5>
+&lt;p>
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/R07GRnyqML8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
+　&lt;/p></description></item><item><title>Cranesのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/cranes/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/cranes/</guid><description>&lt;p>2022-2023にCranesで開発していたRCJサッカーオープンに出場するためのロボット。メンバーは過去の大会で知り合った、沖縄、広島の人だった。&lt;/p>
+&lt;p>電装と制御を担当した。あと組み立て。&lt;/p>
+&lt;p>これが最後にマトモに電装をやったときかもしれない。2024春現在。&lt;/p>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/cranes/0.jpg" width="600">&lt;figcaption>
+			&lt;p>小さく詰め込んだ回路&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/cranes/1.jpg" width="600">&lt;figcaption>
+			&lt;p>本当に場所がなかった&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/cranes/2.jpg" width="600">&lt;figcaption>
+			&lt;p>最終的に非搭載になったドリブラー&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">もう大会終わったし公開！&lt;br>カメラは飾りにしかならなかった、、 &lt;a href="https://t.co/Hb7Y3p9HPG">https://t.co/Hb7Y3p9HPG&lt;/a> &lt;a href="https://t.co/jpBCm6dABR">pic.twitter.com/jpBCm6dABR&lt;/a>&lt;/p>&amp;mdash; All_outlook (@All_outlook) &lt;a href="https://twitter.com/All_outlook/status/1518559752753610752?ref_src=twsrc%5Etfw">April 25, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>ライントレーサー</title><link>https://jun-robot.github.io/portfolio/linefollow/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/linefollow/</guid><description>&lt;p>2022年-2023年にLEGOの次を担うような教育キットを作れないかと考え開発。&lt;/p>
+&lt;p>自走して学んでいけるエンジニアを育てることが目的。&lt;/p>
+&lt;p>FRCチームSAZANKA Robotics、慶應志木高校電子工学研究会の新人教育にて使用。&lt;/p>
+&lt;p>教育の難しさを学んだ。&lt;/p></description></item><item><title>All_outlookのサッカーロボット</title><link>https://jun-robot.github.io/portfolio/all_outlook/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/all_outlook/</guid><description>&lt;p>2021-2022にAll_outlookで開発していたRCJサッカーライトウェイトに出場するためのロボット。メンバーは中学時代の科学部の仲間で構成されていた。&lt;/p>
+&lt;p>2021年は無限にサッカーロボット作り続けていた。&lt;/p>
+&lt;p>全国大会やアジアパシフィック大会、各種交流大会に沢山参加した。友達がいっぱいできた。&lt;/p>
+&lt;p>主に制御を担当。&lt;/p>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/all_outlook/All_outlook0.jpg" width="600">&lt;figcaption>
+			&lt;p>初めて作ったバージョン0 (2021年夏)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/all_outlook/All_outlook1.jpg" width="600">&lt;figcaption>
+			&lt;p>深夜の公民館の駐輪場で撮影したバージョン1 (2021年秋)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/all_outlook/All_outlook2.jpg" width="600">&lt;figcaption>
+			&lt;p>コンデンサ増し増しにしたバージョン2 (2021年冬)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/all_outlook/All_outlook3.jpg" width="600">&lt;figcaption>
+			&lt;p>資金難で開発中断した僕が設計したバージョン3 (2022年春)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="centre">&lt;img src="https://jun-robot.github.io/portfolio/all_outlook/All_outlook4.jpg" width="600">&lt;figcaption>
+			&lt;p>全国大会でのバージョン4 (2022年春)&lt;/p>
+		&lt;/figcaption>
+&lt;/figure>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">もう大会終わったし公開！&lt;br>カメラは飾りにしかならなかった、、 &lt;a href="https://t.co/Hb7Y3p9HPG">https://t.co/Hb7Y3p9HPG&lt;/a> &lt;a href="https://t.co/jpBCm6dABR">pic.twitter.com/jpBCm6dABR&lt;/a>&lt;/p>&amp;mdash; All_outlook (@All_outlook) &lt;a href="https://twitter.com/All_outlook/status/1518559752753610752?ref_src=twsrc%5Etfw">April 25, 2022&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item><item><title>BASE</title><link>https://jun-robot.github.io/portfolio/base/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/base/</guid><description>&lt;p>2022年夏に1人で作ってみたサッカーロボット。&lt;/p></description></item><item><title>ピンポン玉ロボット</title><link>https://jun-robot.github.io/portfolio/pinponn/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/pinponn/</guid><description>&lt;p>2021年冬にscramble内ロボコンに向けて1人で開発。&lt;/p>
+&lt;p>確か”ラズピコ号”っていう名前をつけた気がする。&lt;/p></description></item><item><title>リレーで作る4bit加算機</title><link>https://jun-robot.github.io/portfolio/addition/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/addition/</guid><description>&lt;p>2020夏休みにコンピューターの仕組みを学ぶためにfTomoと開発。&lt;/p>
+&lt;p>受験のためRCJは出れないなと思いつつ夏休み中だけで実装した。&lt;/p>
+&lt;p>リレーを使った加算機と、NANDゲートを使った加算機と、計算速度を比較するシステムを構築した。&lt;/p></description></item><item><title>魔王</title><link>https://jun-robot.github.io/portfolio/maou/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/maou/</guid><description>&lt;p>2019-2020年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>初めてメカから回路、ソフトまで1人で作ったロボット。&lt;/p>
+&lt;p>思い出深いロボットで今もアイコンとしてよく使っている。&lt;/p></description></item><item><title>エイト</title><link>https://jun-robot.github.io/portfolio/eight/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/eight/</guid><description>&lt;p>2019-2020年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>先輩たちが人型ロボットを作っていて憧れて開発した。&lt;/p>
+&lt;p>メカと回路を担当。&lt;/p></description></item><item><title>まと</title><link>https://jun-robot.github.io/portfolio/mato/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/mato/</guid><description>&lt;p>2019-2020年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>絶対に動くパフォーマンス装置を作りたかった。&lt;/p>
+&lt;p>メカと回路を担当。&lt;/p></description></item><item><title>判定機</title><link>https://jun-robot.github.io/portfolio/hanteiki/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/hanteiki/</guid><description>&lt;p>2018-2019年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>先輩に教わりながら、初めてハンダづけをして、ラズパイを使った。&lt;/p>
+&lt;p>メカと回路とソフトを担当。&lt;/p></description></item><item><title>剣（けん）</title><link>https://jun-robot.github.io/portfolio/ken/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/ken/</guid><description>&lt;p>2019-2020年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>振った角度で光が変化して、めちゃめちゃカッコよかった。&lt;/p>
+&lt;p>メカと回路を担当。&lt;/p></description></item><item><title>瓦ロボット</title><link>https://jun-robot.github.io/portfolio/kawarawari/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/kawarawari/</guid><description>&lt;p>2018-2019年にRCJオンステージに向けてForestで開発。&lt;/p>
+&lt;p>LEGOを使っていてとても懐かしい。全てを担当。&lt;/p></description></item></channel></rss>
