@@ -24,7 +24,8 @@ image = "about/about.jpg"
 - 孫正義育英財団 6期生
 - 情報科学の達人 4期生
 - MakersUniversity U18 8期生
-- 未踏ジュニア2023
+- 未踏ジュニア 2023
+- SecHack365 2025
 
 　
 #### 主な実績
