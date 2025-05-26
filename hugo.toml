@@ -12,9 +12,9 @@ googleAnalytics = "G-RSVPR2TT9K"
 	# Use custom.css for your custom styling
 	style = "mine"
 	description = "It is myportfolio"
-	copyright = "&copy;2024 Jumpei Saito"
+	copyright = "&copy;2024-2025 Jumpei Saito"
 	sidebarAbout = [
-		"モノづくりが大好きな大学生。"
+		"モノを作ります。"
 	]
 	# Contact page
 		# Since this template is static, the contact form uses www.formspree.io as a
