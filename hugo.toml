@@ -14,7 +14,7 @@ googleAnalytics = "G-RSVPR2TT9K"
 	description = "It is myportfolio"
 	copyright = "&copy;2024-2025 Jumpei Saito"
 	sidebarAbout = [
-		"モノを作ります。"
+		"モノを創ります。"
 	]
 	# Contact page
 		# Since this template is static, the contact form uses www.formspree.io as a
@@ -51,7 +51,7 @@ googleAnalytics = "G-RSVPR2TT9K"
 
 	[[params.navlinks]]
 	name = "Future"
-	url = "future/"
+	url = "future/future2"
 
 	[[params.navlinks]]
 	name = "Contact"
