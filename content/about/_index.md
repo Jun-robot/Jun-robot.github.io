@@ -52,8 +52,10 @@ image = "about/about.jpg"
 　
 #### Twitterでの情報発信
 
-{{< twitter user="jun_robot" id="1785140974349668489" >}}
+{{< twitter user="jun_robot" id="1928720842986270968" >}}
 
 　
+
 　
-　
+
+2025年5月31日更新
