@@ -6,7 +6,7 @@
   </a>
   {{end}}
   {{ with .Site.Params.social.twitter }}
-  <a href="{{ . }}" class="twitter" title="Twitter" rel="me">
+  <a href="{{ . }}" class="external twitter" title="Twitter" rel="me">
     <i class="fa fa-twitter"></i>
   </a>
   {{end}}
@@ -31,7 +31,7 @@
   </a>
   {{end}}
   {{ with .Site.Params.social.github }}
-  <a href="{{ . }}" title="GitHub" rel="me">
+  <a href="{{ . }}" class="external" title="GitHub" rel="me">
     <i class="fa fa-github"></i>
   </a>
   {{end}}
@@ -56,7 +56,7 @@
 	</a>
 	{{end}}
 	{{ with .Site.Params.social.facebook }}
-  <a href="{{ . }}" class="facebook" title="Facebook" rel="me">
+  <a href="{{ . }}" class="external facebook" title="Facebook" rel="me">
     <i class="fa fa-facebook"></i>
   </a>
   {{end}}
