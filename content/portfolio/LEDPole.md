@@ -17,6 +17,6 @@ description = "2023-2024年に光を使って空間全体を使って表現す�
 
 {{< figure src="/img/portfolio/LEDPole1.jpg" title="RCJ JapanOpen2024にて (fTomo撮影)" class="centre" width="400">}}
 
-{{< youtube MHWqF70g9po >}}
+{{< youtube t5REk24PNAI >}}
 　
 {{< youtube sfEVmlThWUo >}}
