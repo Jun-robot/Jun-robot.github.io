@@ -15,6 +15,8 @@ description = "2023-2024年にオブジェクトを空間に固定する体験�
 
 初期型のプロトタイピング等を担当。
 
+{{< youtube 9yRPvAYjTfM >}}
+
 {{< youtube EhFA5ScxegE >}}
 　
 {{< youtube sfEVmlThWUo >}}
