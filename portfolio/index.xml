@@ -38,6 +38,11 @@
 &lt;/p></description></item><item><title>Moving Display</title><link>https://jun-robot.github.io/portfolio/movingdsplay/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/movingdsplay/</guid><description>&lt;p>2023-2024年にオブジェクトを空間に固定する体験を作るために開発。&lt;/p>
 &lt;p>情報処理学会、技育展、サイエンスキャッスル、RCJオンステージで発表した。&lt;/p>
 &lt;p>初期型のプロトタイピング等を担当。&lt;/p>
+
+ &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+ &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/9yRPvAYjTfM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+ &lt;/div>
+
 &lt;p>
  &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
  &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EhFA5ScxegE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
@@ -50,10 +55,7 @@
  &lt;/div>
 
 　
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">情報科学の達人 最優秀ポスター発表賞をいただけました！！&lt;br>約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 &lt;a href="https://t.co/EkoTjDOwO3">https://t.co/EkoTjDOwO3&lt;/a>&lt;/p>&amp;mdash; Jun @燈 (@jun_robot) &lt;a href="https://twitter.com/jun_robot/status/1772539091680395759?ref_src=twsrc%5Etfw">March 26, 2024&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-
-&lt;/p></description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>&lt;p>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">情報科学の達人 最優秀ポスター発表賞をいただけました！！&lt;br>約40人位いる達人参加者の中で1番良い発表だったらしいです。嬉しいな。 &lt;a href="https://t.co/EkoTjDOwO3">https://t.co/EkoTjDOwO3&lt;/a>&lt;/p></description></item><item><title>3Dプリンタで作る自作モーター</title><link>https://jun-robot.github.io/portfolio/printed_motor/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://jun-robot.github.io/portfolio/printed_motor/</guid><description>&lt;p>2022-2023に個人で開発していた3Dプリンタで作った自作モーター。&lt;/p>
 &lt;p>サイエンスキャッスルや未踏ジュニア、MakerFaireTokyoで発表した。&lt;/p>
 &lt;p>回路を組んで強制転流で回転するところまではやった。いつかちゃんと制御を書いて回せるようになりたい。&lt;/p>
 &lt;p>CAD等を全てGitHubで公開している。&lt;/p>
