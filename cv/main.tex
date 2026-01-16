@@ -20,7 +20,7 @@
 % ===== Header =====
 \cvheader
   {Jumpei Saito} % Name
-  {Keio University | Faculty of Environment and Information Studies} % Tagline
+  {Keio University | 2nd-year Undergraduate | Faculty of Environment and Information Studies} % Tagline
   {
     Kanagawa, Japan \quad|\quad
     mail: jumpei.saito@keio.jp \quad|\quad
@@ -28,14 +28,12 @@
     Website: jun-robot.github.io
   }
 
-\vspace{2mm}
+% \vspace{2mm}
 
 % ===== Sections =====
 % ---------- Research Interests ----------
 \sectiontitle{Research Interests}
-\cvbullets{
-  \item Robotics, Embedded Systems, Human-Computer Interaction, Wireless Communications, Interactive Robotic Systems
-}
+Robotics, Embedded Systems, Human-Computer Interaction, Wireless Communications, Interactive Robotic Systems
 
 % ---------- Education ----------
 \sectiontitle{Education}
@@ -46,31 +44,7 @@
   {}
   {\cvbullets{
     \item Focus: Wireless Communications, HCI, Robotics.
-    \item GPA: 3.69 / 4.00
-  }}
-
-% ---------- Projects ----------
-\sectiontitle{Projects}
-\cventry
-  {RoboCup OnStage Team ``Tomoshibi Technology''}
-  {Team Leader \& Founder}
-  {Apr 2023 -- Present}
-  {Development of interactive multi-robot systems integrating mobility, actuation, and visual expression.}
-  {\cvbullets{
-    \item Founded and led a robotics development team, Tomoshibi Technology, mentoring members with no prior robotics experience.
-    \item Designed and implemented interactive robotic systems, including mobile displays and illuminated robotic arms.
-    \item Integrated full-stack development including mechanical design (CAD), 3D fabrication, circuit design (KiCad), embedded software, and FPGA-based control.
-    \item Built a coordinated system of up to 15 robots and achieved championship titles at national and international competitions (RoboCup Junior OnStage).
-  }}
-
-\cventry
-  {Swarm Robots as a Medium for Ecosystem Dynamics}
-  {Exploratory Project}
-  {Sep 2025 -- Present}
-  {Research on swarm robot coordination and interdisciplinary interactive expression.}
-  {\cvbullets{
-    \item Designed and implemented a swarm robot coordination system for approximately 20 Sony toio robots with collision avoidance.
-    \item Collaborated with researchers in audio signal processing and biological systems to explore mappings between swarm robot behaviors and ecosystem dynamics.
+    \item GPA: 3.68 / 4.00
   }}
 
 % ---------- Research Experience ----------
@@ -79,15 +53,15 @@
   {Undergraduate Researcher}
   {Auto-ID Laboratory, Keio University — Advisor: Jin Mitsugi}
   {Oct 2025 -- Present}
-  {Research on low-power wireless communication and signal processing.}
+  {Research on backscatter communication and signal processing.}
   {\cvbullets{
-    \item Designed and implemented QPSK baseband signal processing for backscatter communication.
+    \item Designed and implemented QPSK signal processing for backscatter communication.
     \item Implemented modulation/demodulation and evaluated communication performance using MATLAB.
   }}
 
 \cventry
   {Technical Staff}
-  {Narumi Laboratory, Keio University — Advisor: Koya Narumi}
+  {Programmable Products Lab, Keio University — Advisor: Koya Narumi}
   {Mar 2025 -- Present}
   {Technical support and system implementation for digital fabrication research.}
   {\cvbullets{
@@ -107,66 +81,84 @@
     \item Presented research outcomes through poster and oral sessions; awarded Best Presentation / Poster Award.
   }}
 
-% ---------- Publications / Posters ----------
-\sectiontitle{Publications / Posters}
-\cvlistentry
-  {Invited Oral Presentation — WIDE Camp}
-  {Spring 2025}
-  {``RoboCup 2024 OnStage League Overall Championship: Challenges and Future Directions in Developing Interfaces for Expressing Virtual Worlds.''}
+  % ---------- Projects ----------
+\sectiontitle{Projects}
+\cventry
+  {RoboCup OnStage Team ``Tomoshibi Technology''}
+  {Team Leader \& Founder}
+  {Apr 2023 -- Present}
+  {Development of interactive multi-robot systems integrating mobility, actuation, and visual expression.}
+  {\cvbullets{
+    \item Founded and led a robotics development team, Tomoshibi Technology, mentoring members with no prior robotics experience.
+    \item Designed and implemented interactive robotic systems, including mobile displays and illuminated robotic arms.
+    \item Integrated full-stack development including mechanical design (CAD), 3D fabrication, circuit design (KiCad), embedded software, and FPGA-based control.
+    \item Built a coordinated system of up to 15 robots and achieved championship titles at national and international competitions (RoboCup Junior OnStage).
+  }}
 
-\cvlistentry
-  {Poster Presentation — IPSJ 86th National Convention}
-  {2024}
-  {``An Interactive Display Method for Presenting Images Larger Than Physical Screens Using Autonomous Mobile Displays.''}
+\cventry
+  {Swarm Robots as a Medium for Ecosystem Dynamics}
+  {Exploratory Project}
+  {Sep 2025 -- Present}
+  {Development on swarm robot coordination and interdisciplinary interactive expression.}
+  {\cvbullets{
+    \item Designed and implemented a swarm robot coordination system for approximately 20 Sony toio robots with collision avoidance.
+    \item Collaborated with researchers in audio signal processing and biological systems to explore mappings between swarm robot behaviors and ecosystem dynamics.
+  }}
+
+% ---------- Research Presentations ----------
+% \sectiontitle{Research Presentations}
+% {\small
+% \cvbullets{
+%   \item \textit{Spring 2025} --- Invited Oral Presentation, WIDE Camp: ``RoboCup 2024 OnStage League Overall Championship: Challenges and Future Directions in Developing Interfaces for Expressing Virtual Worlds.''
+%   \item \textit{2024} --- Poster Presentation, IPSJ 86th National Convention: ``An Interactive Display Method for Presenting Images Larger Than Physical Screens Using Autonomous Mobile Displays.''
+% }}
 
 
-% Technical Skills
 \sectiontitle{Technical Skills}
-\cvgroup{Programming}{}
+
+\cvgroup{Software}{}
 \cvbullets{
-  \item C/C++, Python, (others)
-  \item ROS2, embedded HAL/RTOS (if used), Linux, Git
+  \item C/C++, Python, Verilog, MATLAB, Linux, Git
+  \item Embedded software (motor control, robot internal networking, etc...)
+  \item HAL-based MCU programming (STM32, ESP32, ATmega)
+  \item FPGA-based communication and rendering pipelines (Tang Nano, Tang Primer)
 }
 
 \cvgroup{Hardware}{}
 \cvbullets{
-  \item STM32, ESP32, FPGA (if applicable), KiCad, sensors/actuators
+  \item 3D printing (Ender-3, Guider 2S, Bambu Lab)
+  \item CNC machining (KitMill CL200), laser cutting
+  \item Mechanical design using Autodesk Fusion
+  \item Schematic and PCB design using KiCad
 }
+
 
 
 
 % Awards
 \sectiontitle{Awards}
-\cvgroup{International \& National Awards}{2019 -- 2024}
 \cvbullets{
-  \item RoboCup Eindhoven 2024 OnStage League --- 1st Place (Individual Team).
-  \item RoboCupJunior 2024 Japan Open OnStage --- Champion \& Presentation Award.
-  \item Best Poster / Presentation Award, IPSJ National Convention.
-  \item Best Award, Experts in Information Science Program.
-  \item SFC Award, Keio University.
+  \cvaward{2024}{RoboCup Eindhoven 2024 OnStage League}{Individual Team 1st Place}{International performance-robotics competition; won 1st place among 24 invited teams from around the world.}
+  \cvaward{2024}{RoboCupJunior Japan Open 2024 OnStage League}{Champion \& Presentation Award}{Won the championship after a 6 year journey of continual challenge; earned an invitation to the world championship.}
+  \cvaward{2024}{Experts in Information Science Program (NII)}{Best Poster Presentation Award}{Received the program’s top award among 40 selected high school students in NII’s research mentorship program.}
+  % \cvaward{2024}{86th National Convention of the Information Processing Society of Japan (IPSJ)}{Best Poster Presentation Award}{Awarded for outstanding poster presentation on interactive display methods using autonomous mobile robots.}
+
+  \cvaward{2025}{Keio University (SFC)}{SFC Award}{Faculty-wide award; first-year undergraduate recipient in nine years.}
 }
 
 
 % Fellowships
 \sectiontitle{Fellowships}
-\cvgroup{Selected Fellowships}{2022 -- Present}
 \cvbullets{
-  \item Masason Foundation Fellow.
-  \item Experts in Information Science Program.
-  \item Mitou Junior Program.
-  \item SecHack365.
-  \item Makers University U18.
+  \cvaward{2022 -- Present}{Masason Foundation Fellow}{Full Scholarship}{One of 30 global research scholars selected by Masayoshi Son (SoftBank Group) with funding for education and research buggets.}
+  \cvaward{2023}{Mitou Junior Program}{Selected Creater}{One of 20 under-18 participants nationwide; developed a custom 3D-printed motor with funding and mentorship.}
 }
 
-
-
-% Activities
-\sectiontitle{Activities}
-\cvgroup{Leadership \& Community Activities}{2023 -- Present}
+% Leadership & Outreach
+\sectiontitle{Leadership \& Outreach}
 \cvbullets{
-  \item Leader, Tomoshibi Technology.
-  \item Organizer and technical contributor, Student Robot Expo.
+  \item Successfully crowdfunded JPY 3,055,000 from 168 supporters to cover travel costs for the RoboCup Eindhoven 2024 competition.
+  \item Founded and organized a student robotics and hardware expo with confirmed funding of JPY 1,000,000 and 50+ expected participants (February 2026).
 }
-
 
 \end{document}

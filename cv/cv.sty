@@ -79,6 +79,13 @@
   \vspace{1mm}
 }
 
+% Usage:
+% \cvaward{Year}{Venue / Event}{Award}{1-line significance}
+\newcommand{\cvaward}[4]{%
+  \item \textit{#1} --- #2: #3%
+  \ifx&#4&\else\par{\small #4}\fi%
+}
+
 % Compact bullet macro
 \newcommand{\cvbullets}[1]{%
   \begin{itemize}
