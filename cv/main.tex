@@ -1,0 +1,172 @@
+% !TEX program = lualatex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{cv} % <- cv.sty
+\usepackage{fontspec} % LuaLaTeX
+% \setmainfont{TeX Gyre Termes} % Times系（TeX Live標準）
+% \setsansfont{TeX Gyre Heros}
+
+\setmainfont{Helvetica Neue}
+\setsansfont{Helvetica Neue}
+\renewcommand{\familydefault}{\sfdefault}
+% \linespread{1.15}
+% \setlength{\parskip}{3pt}
+
+\usepackage[none]{hyphenat}
+
+
+\begin{document}
+
+% ===== Header =====
+\cvheader
+  {Jumpei Saito} % Name
+  {Keio University | Faculty of Environment and Information Studies} % Tagline
+  {
+    Kanagawa, Japan \quad|\quad
+    mail: jumpei.saito@keio.jp \quad|\quad
+    GitHub: Jun-robot \quad|\quad
+    Website: jun-robot.github.io
+  }
+
+\vspace{2mm}
+
+% ===== Sections =====
+% ---------- Research Interests ----------
+\sectiontitle{Research Interests}
+\cvbullets{
+  \item Robotics, Embedded Systems, Human-Computer Interaction, Wireless Communications, Interactive Robotic Systems
+}
+
+% ---------- Education ----------
+\sectiontitle{Education}
+\cventry
+  {Bachelor (Expected), Faculty of Environment and Information Studies (SFC)}
+  {Keio University}
+  {Apr 2024 -- Mar 2028 (expected)}
+  {}
+  {\cvbullets{
+    \item Focus: Wireless Communications, HCI, Robotics.
+    \item GPA: 3.69 / 4.00
+  }}
+
+% ---------- Projects ----------
+\sectiontitle{Projects}
+\cventry
+  {RoboCup OnStage Team ``Tomoshibi Technology''}
+  {Team Leader \& Founder}
+  {Apr 2023 -- Present}
+  {Development of interactive multi-robot systems integrating mobility, actuation, and visual expression.}
+  {\cvbullets{
+    \item Founded and led a robotics development team, Tomoshibi Technology, mentoring members with no prior robotics experience.
+    \item Designed and implemented interactive robotic systems, including mobile displays and illuminated robotic arms.
+    \item Integrated full-stack development including mechanical design (CAD), 3D fabrication, circuit design (KiCad), embedded software, and FPGA-based control.
+    \item Built a coordinated system of up to 15 robots and achieved championship titles at national and international competitions (RoboCup Junior OnStage).
+  }}
+
+\cventry
+  {Swarm Robots as a Medium for Ecosystem Dynamics}
+  {Exploratory Project}
+  {Sep 2025 -- Present}
+  {Research on swarm robot coordination and interdisciplinary interactive expression.}
+  {\cvbullets{
+    \item Designed and implemented a swarm robot coordination system for approximately 20 Sony toio robots with collision avoidance.
+    \item Collaborated with researchers in audio signal processing and biological systems to explore mappings between swarm robot behaviors and ecosystem dynamics.
+  }}
+
+% ---------- Research Experience ----------
+\sectiontitle{Research Experience}
+\cventry
+  {Undergraduate Researcher}
+  {Auto-ID Laboratory, Keio University — Advisor: Jin Mitsugi}
+  {Oct 2025 -- Present}
+  {Research on low-power wireless communication and signal processing.}
+  {\cvbullets{
+    \item Designed and implemented QPSK baseband signal processing for backscatter communication.
+    \item Implemented modulation/demodulation and evaluated communication performance using MATLAB.
+  }}
+
+\cventry
+  {Technical Staff}
+  {Narumi Laboratory, Keio University — Advisor: Koya Narumi}
+  {Mar 2025 -- Present}
+  {Technical support and system implementation for digital fabrication research.}
+  {\cvbullets{
+  \item Implemented hardware, electronics, and control software for a pouch-actuator-based fabrication machine.
+  \item Developed G-code-driven control software for fabrication workflows.
+  \item Built custom experimental apparatuses used for digital fabrication research and data collection.
+  }}
+
+\cventry
+  {Research Mentee}
+  {Experts in Information Science Program, National Institute of Informatics (NII) — Advisor: Koya Narumi}
+  {Apr 2023 -- Mar 2024}
+  {Research on interactive display systems using autonomous mobile robots.}
+  {\cvbullets{
+    \item Selected as one of 40 high school students nationwide for a highly competitive informatics research program at NII.
+    \item Investigated methods for presenting images larger than physical screens through autonomous moving displays.
+    \item Presented research outcomes through poster and oral sessions; awarded Best Presentation / Poster Award.
+  }}
+
+% ---------- Publications / Posters ----------
+\sectiontitle{Publications / Posters}
+\cvlistentry
+  {Invited Oral Presentation — WIDE Camp}
+  {Spring 2025}
+  {``RoboCup 2024 OnStage League Overall Championship: Challenges and Future Directions in Developing Interfaces for Expressing Virtual Worlds.''}
+
+\cvlistentry
+  {Poster Presentation — IPSJ 86th National Convention}
+  {2024}
+  {``An Interactive Display Method for Presenting Images Larger Than Physical Screens Using Autonomous Mobile Displays.''}
+
+
+% Technical Skills
+\sectiontitle{Technical Skills}
+\cvgroup{Programming}{}
+\cvbullets{
+  \item C/C++, Python, (others)
+  \item ROS2, embedded HAL/RTOS (if used), Linux, Git
+}
+
+\cvgroup{Hardware}{}
+\cvbullets{
+  \item STM32, ESP32, FPGA (if applicable), KiCad, sensors/actuators
+}
+
+
+
+% Awards
+\sectiontitle{Awards}
+\cvgroup{International \& National Awards}{2019 -- 2024}
+\cvbullets{
+  \item RoboCup Eindhoven 2024 OnStage League --- 1st Place (Individual Team).
+  \item RoboCupJunior 2024 Japan Open OnStage --- Champion \& Presentation Award.
+  \item Best Poster / Presentation Award, IPSJ National Convention.
+  \item Best Award, Experts in Information Science Program.
+  \item SFC Award, Keio University.
+}
+
+
+% Fellowships
+\sectiontitle{Fellowships}
+\cvgroup{Selected Fellowships}{2022 -- Present}
+\cvbullets{
+  \item Masason Foundation Fellow.
+  \item Experts in Information Science Program.
+  \item Mitou Junior Program.
+  \item SecHack365.
+  \item Makers University U18.
+}
+
+
+
+% Activities
+\sectiontitle{Activities}
+\cvgroup{Leadership \& Community Activities}{2023 -- Present}
+\cvbullets{
+  \item Leader, Tomoshibi Technology.
+  \item Organizer and technical contributor, Student Robot Expo.
+}
+
+
+\end{document}

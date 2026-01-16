@@ -1,0 +1,87 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{cv}[2026/01/15 Simple academic CV style]
+
+\RequirePackage[margin=18mm]{geometry}
+\RequirePackage{hyperref}
+\RequirePackage{enumitem}
+\RequirePackage{xcolor}
+\RequirePackage{titlesec}
+\RequirePackage{tabularx}
+\RequirePackage{ragged2e}
+
+% ---- Links ----
+\hypersetup{
+  colorlinks=true,
+  urlcolor=black,
+  linkcolor=black
+}
+
+% ---- Spacing ----
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% ---- Section style ----
+\titleformat{\section}{\Large\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{6pt}{4pt}
+
+\newcommand{\sectiontitle}[1]{%
+  \section*{#1}%
+  \vspace{-1mm}%
+  \rule{\linewidth}{0.4pt}%
+  \vspace{2mm}%
+}
+
+% ---- Lists ----
+\setlist[itemize]{leftmargin=*, topsep=2pt, itemsep=1pt, parsep=0pt}
+\setlist[enumerate]{leftmargin=*, topsep=2pt, itemsep=1pt, parsep=0pt}
+
+% ---- Header ----
+\newcommand{\cvheader}[3]{%
+  {\Huge\bfseries #1}\par
+  \vspace{1mm}
+  {\large #2}\par
+  \vspace{1mm}
+  {\small #3}\par
+  \vspace{2mm}
+  \rule{\linewidth}{0.6pt}
+}
+
+% ---- Entry blocks ----
+% Usage:
+% \cventry{Title}{Org / Place}{Start -- End}{One-line summary}{bullet list}
+\newcommand{\cventry}[5]{%
+  \begin{tabularx}{\linewidth}{@{}X @{\hspace{6mm}} r@{}}
+    \textbf{#1} & \textit{#3} \\
+    #2 & \\
+  \end{tabularx}
+  \ifx&#4&\else{\small #4}\par\fi
+  \ifx&#5&\else{\small #5}\par\fi
+  \vspace{2mm}
+}
+
+% ---- Simple grouped blocks (for awards, fellowships, etc.) ----
+% Usage:
+% \cvgroup{Group title}{Date range (optional)}
+\newcommand{\cvgroup}[2]{%
+  {\textbf{#1}}\par
+  \ifx&#2&\else{\vspace{-0.5mm}\hfill{\textit{#2}}\par}\fi
+  \vspace{0.5mm}
+}
+
+% Usage:
+% \cvlistentry{Title}{Date (optional)}{Detail (optional)}
+% - Date is shown on a separate right-aligned line to avoid awkward alignment
+%   when the title wraps.
+\newcommand{\cvlistentry}[3]{%
+  {\textbf{#1}}\par
+  \ifx&#2&\else{\vspace{-0.5mm}\hfill{\textit{#2}}\par}\fi
+  \ifx&#3&\else{\small #3}\par\fi
+  \vspace{1mm}
+}
+
+% Compact bullet macro
+\newcommand{\cvbullets}[1]{%
+  \begin{itemize}
+    #1
+  \end{itemize}
+}

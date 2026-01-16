@@ -1,2 +1,9 @@
 .DS_Store
 public/*
+
+
+# tex
+*.aux
+*.log
+*.synctex.gz
+*.out
