@@ -2,6 +2,9 @@
 \ProvidesPackage{cv}[2026/01/15 Simple academic CV style]
 
 \RequirePackage[margin=18mm]{geometry}
+% Allow line breaks in long URLs (must be set before hyperref loads url.sty)
+\PassOptionsToPackage{hyphens}{url}
+\RequirePackage{xurl}
 \RequirePackage{hyperref}
 \RequirePackage{enumitem}
 \RequirePackage{xcolor}
@@ -13,8 +16,12 @@
 \hypersetup{
   colorlinks=true,
   urlcolor=black,
-  linkcolor=black
+  linkcolor=black,
+  breaklinks=true
 }
+
+% Make URL line breaks more permissive (helps avoid overfull lines)
+\Urlmuskip=0mu plus 1mu
 
 % ---- Spacing ----
 \setlength{\parindent}{0pt}
